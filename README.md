@@ -54,11 +54,6 @@ DevOps      Docker • AWS • GitHub Actions
 
 ---
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SATEJ1909&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATEJ1909&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <div align="center">
 
 > *"Stay curious. Keep building."*
