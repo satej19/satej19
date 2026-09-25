@@ -1,61 +1,51 @@
 <div align="center">
 
-# Hi, I'm Satej 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Satej%20Niswade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Explorer&descAlignY=58&descSize=16" width="100%"/>
 
-**Backend Engineer • AI Explorer • Problem Solver**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Shipping+AI-powered+products;Learning+Go+%26+Distributed+Systems;Always+curious.+Always+building." />
 
-*Building scalable systems, one project at a time.*
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+Backend+Systems;Learning+Go+%26+Distributed+Systems;Exploring+AI+Infrastructure;Always+Curious." />
-
-</div>
-
----
-
-### About
-
-```text
-Backend-focused developer passionate about building
-high-performance systems and AI-powered applications.
-
-Currently exploring Go, distributed systems,
-cloud infrastructure, and LLM engineering.
-```
-
-### Tech
-
-```text
-Languages   JavaScript • TypeScript • Java • Go
-
-Backend     Node.js • Express • GraphQL
-
-Database    PostgreSQL • MongoDB • Redis • Prisma
-
-Frontend    React • Next.js
-
-DevOps      Docker • AWS • GitHub Actions
-```
-
-### Currently
-
-* 🚀 Building backend & AI projects
-* 📚 Learning Go and System Design
-* 💡 Exploring AI Infrastructure & Distributed Systems
-
----
-
-<div align="center">
-
-[LinkedIn](https://linkedin.com/in/satej-niswade) •
-[X](https://x.com/Satej1909) •
-[Email](mailto:satejniswade6@gmail.com)
+<a href="https://linkedin.com/in/satej-niswade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Satej1909"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:satejniswade6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### ⚙️ Stack
+<img src="https://skillicons.dev/icons?i=js,ts,java,go,nodejs,express,graphql,postgres,mongodb,redis,react,nextjs,docker,aws,githubactions&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+### 🔭 Right now
+- 🚀 Shipping backend + AI projects
+- 📚 Deep in Go & System Design
+- 🧠 Exploring AI infra & distributed systems
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SATEJ1909&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SATEJ1909&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
 
 > *"Stay curious. Keep building."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
